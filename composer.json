@@ -1,0 +1,15 @@
+{
+    "name": "narut/projectphp",
+    "autoload": {
+        "psr-4": {
+            "Narut\\Projectphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Devanandhan",
+            "email": "d.codandabany@gmail.com"
+        }
+    ],
+    "require": {}
+}
